@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: white;
+    font-size: large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.section1{
+    background-color: red;
+    border: 2px solid white;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    text-align:center;
+}
+
+.section2{
+    background-color:antiquewhite;
+    color: black;
+    border: 2px solid white;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+}
+
+.section3{
+    background-color: cyan;
+    color: black;
+    border: 2px solid white;
+    margin-bottom: 30px;
+    padding-left: 20px;
+}
+
+.section4{
+    background-color:lightsalmon;
+    border: 2px solid white;
+    margin-bottom: 30px;
+    padding-left: 20px;
+}
+
+.submit{
+    background-color: black;
+    color: white;
+    border-radius: 15%;
+}
